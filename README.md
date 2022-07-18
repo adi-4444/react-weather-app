@@ -4,4 +4,4 @@ This project was created with React, Axios.
 
 ## Used Api
 
-In the project used `Open Weather App Api`
+In the project used `Open Weather Map Api`
